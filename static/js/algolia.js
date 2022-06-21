@@ -1,0 +1,9 @@
+
+
+ algoliasearchNetlify({
+    appId: 'N6ETRP7SGS',
+    apiKey: 'REDACTED',
+    siteId: 'a1b7ee1a-11a7-4bd2-a341-2260656e216f',
+    branch: 'master',
+    selector: 'div#search',
+  });
